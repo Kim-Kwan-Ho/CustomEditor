@@ -43,8 +43,6 @@ public class FontChanger : EditorWindow
 
         GUILayout.Space(10);
 
-        GUILayout.Label("Font Changer", EditorStyles.boldLabel);
-
         _compareNormalFont = (Font)EditorGUILayout.ObjectField("Compare UI Font", _compareNormalFont, typeof(Font), false);
         _compareTMPFont = (TMP_FontAsset)EditorGUILayout.ObjectField("Compare TMP Font", _compareTMPFont, typeof(TMP_FontAsset), false);
 
