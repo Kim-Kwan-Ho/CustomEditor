@@ -1,5 +1,4 @@
-# CustomEditor
- 
+
 ## 1. BaseBehaviour (Inspector)
 ### 설명: MonoBehaviour을 상속한 베이스 컴포넌트로, 상속하여 다양한 기능을 확장할 수 있도록 제작
 기능 1. 인스펙터에서 버튼으로 함수 호출
