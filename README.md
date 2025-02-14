@@ -24,3 +24,10 @@
 기능 1. XML 파일 불러오기
 
 기능 2. 지정한 데이터 타입으로 자동 변환
+
+## 4. Scriptable Object Maker (Xml Loader 응용)
+### 설명: XML 파일을 통해 지정한 Scriptable Object를 생성 혹은 편집 해주는 기능 제작
+
+![image](https://github.com/user-attachments/assets/2640e95c-fc1c-416b-8de8-463654c6e37d)
+
+
