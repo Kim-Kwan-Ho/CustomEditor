@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Test xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<test>
+		<_name>Test111</_name>
+		<_int>11111</_int>
+		<_string>aaaaa</_string>
+		<_float>1.111</_float>
+	</test>
+	<test>
+		<_name>Test222</_name>
+		<_int>22222</_int>
+		<_string>bbbbb</_string>
+		<_float>2.222</_float>
+	</test>
+	<test>
+		<_name>Test333</_name>
+		<_int>33333</_int>
+		<_string>ccccc</_string>
+		<_float>3.3333</_float>
+	</test>
+	<test>
+		<_name>Test444</_name>
+		<_int>44444</_int>
+		<_string>ddddd</_string>
+		<_float>4.4444</_float>
+	</test>
+	<test>
+		<_name>Test555</_name>
+		<_int>55555</_int>
+		<_string>eeeee</_string>
+		<_float>5</_float>
+	</test>
+</Test>
