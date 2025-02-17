@@ -16,7 +16,7 @@
 
 기능 2. Project 내 폰트 변경 
 
-![image](https://github.com/user-attachments/assets/ff7a1f3e-0e17-4625-866a-124ab40a0817)
+![image](https://github.com/user-attachments/assets/f902227c-567e-4756-a6f3-5ed892c69701)
 
 
 ## 3. [Xml Loader](https://github.com/Kim-Kwan-Ho/CustomEditor/blob/main/Assets/Scripts/XML/XmlDataLoader.cs)
@@ -24,6 +24,7 @@
 기능 1. XML 파일 불러오기
 
 기능 2. 지정한 데이터 타입으로 자동 변환
+
 
 ## 4. [Scriptable Object Maker](https://github.com/Kim-Kwan-Ho/CustomEditor/blob/main/Assets/Scripts/SOMaker/SOMaker.cs) (Xml Loader 응용)
 ### 설명: XML 파일을 통해 지정한 Scriptable Object를 생성 혹은 편집 해주는 기능 제작
